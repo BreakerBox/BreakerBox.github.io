@@ -8,6 +8,7 @@ permalink: :slug
 social:
   twitter: _SupunKavinda
   github: BreakerBox
+  youtube: https://www.youtube.com/channel/UC7jlCDwbArpLwkfFn_RqX0Q
 
 plugins:
  - jekyll-feed
